@@ -5,7 +5,7 @@ body{
 }
 
 .container{
-    width:650px;
+    width:700px;
     margin:auto;
     background:white;
     padding:25px;
@@ -14,7 +14,7 @@ body{
     box-shadow:0 0 15px rgba(0,0,0,0.2);
 }
 
-.input-box input{
+.input-box input, select{
     padding:8px;
     margin:6px;
 }
